@@ -1,11 +1,10 @@
-michelino
+Bluetooth Controlled Bot
 =========
 
 A firmware for my Arduino based remote controlled Robot vehicle. This project was made through online references.
 License
 =======
 
-Michelino
 Robot Vehicle firmware for the Arduino platform
 
 Copyright (c) 2015 by Abhedya Khatiwala
